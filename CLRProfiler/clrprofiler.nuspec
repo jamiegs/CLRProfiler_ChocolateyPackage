@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>clrprofiler</id>
+    <title>CLRProfiler (Install)</title>
+    <version>4.5</version>
+    <authors>Microsoft</authors>
+    <owners>Jamiegs</owners>
+    <summary>The CLR Profiler allows developers to see the allocation profile of their managed applications.</summary>
+    <description>Developed By Microsoft.  The CLR Profiler is a free tool to profile their .NET applications.</description>
+    <projectUrl>https://clrprofiler.codeplex.com/</projectUrl>
+    <packageSourceUrl></packageSourceUrl>
+    <projectSourceUrl>https://clrprofiler.codeplex.com/SourceControl/list/changesets?branch=master</projectSourceUrl>
+    <docsUrl>https://clrprofiler.codeplex.com/documentation</docsUrl>
+    <bugTrackerUrl>https://clrprofiler.codeplex.com/workitem/list/basic</bugTrackerUrl>
+    <tags>clrprofiler admin SPACE_SEPARATED</tags>
+    <licenseUrl>https://clrprofiler.codeplex.com/license</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://download-codeplex.sec.s-msft.com/Download?ProjectName=clrprofiler&DownloadId=532803&Build=21031</iconUrl>
+    <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
