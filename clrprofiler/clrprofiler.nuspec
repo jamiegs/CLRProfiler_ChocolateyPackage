@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>clrprofiler</id>
-    <title>CLRProfiler (Install)</title>
+    <title>Microsoft CLR Profiler</title>
     <version>4.5</version>
     <authors>Microsoft</authors>
     <owners>Jamiegs</owners>
