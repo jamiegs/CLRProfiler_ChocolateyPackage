@@ -1,4 +1,3 @@
-﻿
 $ErrorActionPreference = 'Stop';
 
 $packageName= 'CLR Profiler'
