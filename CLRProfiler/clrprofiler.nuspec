@@ -10,15 +10,14 @@
     <summary>The CLR Profiler allows developers to see the allocation profile of their managed applications.</summary>
     <description>Developed By Microsoft.  The CLR Profiler is a free tool to profile their .NET applications.</description>
     <projectUrl>https://clrprofiler.codeplex.com/</projectUrl>
-    <packageSourceUrl></packageSourceUrl>
+    <packageSourceUrl>https://github.com/jamiegs/CLRProfiler_ChocolateyPackage</packageSourceUrl>
     <projectSourceUrl>https://clrprofiler.codeplex.com/SourceControl/list/changesets?branch=master</projectSourceUrl>
     <docsUrl>https://clrprofiler.codeplex.com/documentation</docsUrl>
     <bugTrackerUrl>https://clrprofiler.codeplex.com/workitem/list/basic</bugTrackerUrl>
-    <tags>clrprofiler admin SPACE_SEPARATED</tags>
+    <tags>clrprofiler</tags>
     <licenseUrl>https://clrprofiler.codeplex.com/license</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://download-codeplex.sec.s-msft.com/Download?ProjectName=clrprofiler&DownloadId=532803&Build=21031</iconUrl>
-    <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes>
+    <iconUrl>https://download-codeplex.sec.s-msft.com/Download?ProjectName=clrprofiler&amp;DownloadId=532803&amp;Build=21031</iconUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
