@@ -4,20 +4,19 @@
   <metadata>
     <id>clrprofiler</id>
     <title>Microsoft CLR Profiler</title>
-    <version>4.5</version>
+    <version>4.5.0.20180510</version>
     <authors>Microsoft</authors>
     <owners>Jamiegs</owners>
     <summary>The CLR Profiler allows developers to see the allocation profile of their managed applications.</summary>
     <description>Developed By Microsoft.  The CLR Profiler is a free tool to profile their .NET applications.</description>
-    <projectUrl>https://clrprofiler.codeplex.com/</projectUrl>
+    <projectUrl>https://github.com/MicrosoftArchive/clrprofiler</projectUrl>
     <packageSourceUrl>https://github.com/jamiegs/CLRProfiler_ChocolateyPackage</packageSourceUrl>
-    <projectSourceUrl>https://clrprofiler.codeplex.com/SourceControl/list/changesets?branch=master</projectSourceUrl>
-    <docsUrl>https://clrprofiler.codeplex.com/documentation</docsUrl>
-    <bugTrackerUrl>https://clrprofiler.codeplex.com/workitem/list/basic</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/MicrosoftArchive/clrprofiler</projectSourceUrl>
+    <docsUrl>https://github.com/MicrosoftArchive/clrprofiler/blob/master/Wiki/Home.md</docsUrl>
+    <bugTrackerUrl>https://github.com/MicrosoftArchive/clrprofiler/issues</bugTrackerUrl>
     <tags>clrprofiler Microsoft</tags>
-    <licenseUrl>https://clrprofiler.codeplex.com/license</licenseUrl>
+    <licenseUrl>https://github.com/MicrosoftArchive/clrprofiler/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://download-codeplex.sec.s-msft.com/Download?ProjectName=clrprofiler&amp;DownloadId=532803&amp;Build=21031</iconUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />

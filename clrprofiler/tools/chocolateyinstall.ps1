@@ -2,7 +2,7 @@ $ErrorActionPreference = 'Stop';
 
 $packageName= 'CLR Profiler'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://clrprofiler.codeplex.com/downloads/get/532810'
+$url        = 'https://github.com/MicrosoftArchive/clrprofiler/releases/download/fall_2012/CLRProfiler45Binaries.zip'
 $checksum   = 'E024DFEEDFE19B5BC1198BA34E14B9A7'
 $desktop    = $([System.Environment]::GetFolderPath([System.Environment+SpecialFolder]::DesktopDirectory))
 
