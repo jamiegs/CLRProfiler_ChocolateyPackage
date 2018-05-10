@@ -5,12 +5,11 @@ https://chocolatey.org/packages/clrprofiler
 
 
 # Create package
-`
+```
 > choco pack
-`
+```
 
 # Upload package
-`
-choco push .
-\<package>.nupkg -s https://chocolatey.org/ -k="<token>"
-`
+```
+> choco push .\<package>.nupkg -s https://chocolatey.org/ -k="<token>"
+```
