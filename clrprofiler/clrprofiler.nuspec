@@ -4,7 +4,7 @@
   <metadata>
     <id>clrprofiler</id>
     <title>Microsoft CLR Profiler</title>
-    <version>4.5.0.20180510</version>
+    <version>4.5.0.20180517</version>
     <authors>Microsoft</authors>
     <owners>Jamiegs</owners>
     <summary>The CLR Profiler allows developers to see the allocation profile of their managed applications.</summary>
